@@ -22,6 +22,6 @@ color2.addEventListener("input",function(){
     element.innerHTML = "background : linear-gradient(to right ,"+col1+" ,"+col2+ " )";
 })
 
-
+console.log("aman jain");
 
 
